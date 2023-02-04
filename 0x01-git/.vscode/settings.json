@@ -1,0 +1,11 @@
+{
+    "C_Cpp.codeAnalysis.clangTidy.enabled": true,
+    "emmet.excludeLanguages": [
+        "markdown",
+        "HTML AND CSS"
+    ],
+    "git.enableSmartCommit": true,
+    "git.followTagsWhenSync": true,
+    "git.fetchOnPull": true,
+    "prettier.bracketSameLine": true
+}
